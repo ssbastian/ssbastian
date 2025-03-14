@@ -18,7 +18,7 @@ I’m a final-year Systems Engineering student📖 with Full Stack Developer exp
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 !-->
-
+<br>
 
 
 ## 🛠️ My Favorite Tools
