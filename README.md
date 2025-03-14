@@ -22,7 +22,7 @@ I’m a final-year Systems Engineering student📖 with Full Stack Developer exp
 <br>
 
 
-## 🛠️ My Favorite Tools
+### 🛠️ My Favorite Tools
 ### 👨‍💻 Programming Languages
 
 <p>
