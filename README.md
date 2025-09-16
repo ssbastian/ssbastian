@@ -5,7 +5,10 @@
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 !-->
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVyODMxdnBwdTV1dGQxZHAzc3JxYnA0b2tlZWtwMjk2cnd2aWFhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ysHrNh7oxGysBmI5j/giphy.gif" width="30px">&nbsp;***About me***
+<!--
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVyODMxdnBwdTV1dGQxZHAzc3JxYnA0b2tlZWtwMjk2cnd2aWFhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ysHrNh7oxGysBmI5j/giphy.gif" 
+!-->
+width="30px">&nbsp;***About me***
 
 
 I’m a final-year Systems Engineering student📖 with Full Stack Developer experience. I’ve worked with Java (Spring Boot), Angular, SQL databases, and Python. I’m familiar with agile methodologies like Scrum and version control tools such as Git and GitHub. I’m passionate about learning new technologies and creating innovative solutions🌱.
